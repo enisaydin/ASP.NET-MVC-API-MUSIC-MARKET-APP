@@ -1,0 +1,11 @@
+C:\Users\enisa\Desktop\Music.Market\Music.Market\Music.Market.Core\bin\Debug\net8.0\Music.Market.Core.deps.json
+C:\Users\enisa\Desktop\Music.Market\Music.Market\Music.Market.Core\bin\Debug\net8.0\Music.Market.Core.dll
+C:\Users\enisa\Desktop\Music.Market\Music.Market\Music.Market.Core\bin\Debug\net8.0\Music.Market.Core.pdb
+C:\Users\enisa\Desktop\Music.Market\Music.Market\Music.Market.Core\obj\Debug\net8.0\Music.Market.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enisa\Desktop\Music.Market\Music.Market\Music.Market.Core\obj\Debug\net8.0\Music.Market.Core.AssemblyInfoInputs.cache
+C:\Users\enisa\Desktop\Music.Market\Music.Market\Music.Market.Core\obj\Debug\net8.0\Music.Market.Core.AssemblyInfo.cs
+C:\Users\enisa\Desktop\Music.Market\Music.Market\Music.Market.Core\obj\Debug\net8.0\Music.Market.Core.csproj.CoreCompileInputs.cache
+C:\Users\enisa\Desktop\Music.Market\Music.Market\Music.Market.Core\obj\Debug\net8.0\Music.Market.Core.dll
+C:\Users\enisa\Desktop\Music.Market\Music.Market\Music.Market.Core\obj\Debug\net8.0\refint\Music.Market.Core.dll
+C:\Users\enisa\Desktop\Music.Market\Music.Market\Music.Market.Core\obj\Debug\net8.0\Music.Market.Core.pdb
+C:\Users\enisa\Desktop\Music.Market\Music.Market\Music.Market.Core\obj\Debug\net8.0\ref\Music.Market.Core.dll

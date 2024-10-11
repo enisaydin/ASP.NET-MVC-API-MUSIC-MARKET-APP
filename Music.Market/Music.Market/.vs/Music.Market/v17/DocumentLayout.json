@@ -1,0 +1,522 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.api\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|solutionrelative:music.market.api\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.api\\dto\\musicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|solutionrelative:music.market.api\\dto\\musicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.api\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|solutionrelative:music.market.api\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.core\\repositories\\iartistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|solutionrelative:music.market.core\\repositories\\iartistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.core\\services\\iartistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|solutionrelative:music.market.core\\services\\iartistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|solutionrelative:music.market.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.core\\repositories\\imusicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|solutionrelative:music.market.core\\repositories\\imusicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.core\\music.market.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|solutionrelative:music.market.core\\music.market.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.api\\dto\\saveartistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|solutionrelative:music.market.api\\dto\\saveartistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.core\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|solutionrelative:music.market.core\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.core\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|solutionrelative:music.market.core\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AF6C94-A16D-4C61-BB66-E17D0D231672}|Music.Market.Services\\Music.Market.Services.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.services\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AF6C94-A16D-4C61-BB66-E17D0D231672}|Music.Market.Services\\Music.Market.Services.csproj|solutionrelative:music.market.services\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.data\\musicmarketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|solutionrelative:music.market.data\\musicmarketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.data\\repositories\\artistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|solutionrelative:music.market.data\\repositories\\artistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.api\\validators\\savemusicresourcevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|solutionrelative:music.market.api\\validators\\savemusicresourcevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.api\\validators\\saveartistresourcevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|solutionrelative:music.market.api\\validators\\saveartistresourcevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.api\\dto\\savemusicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|solutionrelative:music.market.api\\dto\\savemusicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.api\\dto\\artistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|solutionrelative:music.market.api\\dto\\artistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|solutionrelative:music.market.api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AF6C94-A16D-4C61-BB66-E17D0D231672}|Music.Market.Services\\Music.Market.Services.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.services\\musicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1AF6C94-A16D-4C61-BB66-E17D0D231672}|Music.Market.Services\\Music.Market.Services.csproj|solutionrelative:music.market.services\\musicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|solutionrelative:music.market.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.core\\services\\imusicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|solutionrelative:music.market.core\\services\\imusicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.data\\migrations\\20240905135444_initmusicmarketdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|solutionrelative:music.market.data\\migrations\\20240905135444_initmusicmarketdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBDA2198-619C-4396-9406-908BBC5A7EEB}|Music.Market.Api\\Music.Market.Api.csproj|solutionrelative:music.market.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|solutionrelative:music.market.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.data\\repositories\\musicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|solutionrelative:music.market.data\\repositories\\musicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|solutionrelative:music.market.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8199CCB-A98B-483A-934E-87338A7BC89E}|Music.Market.Core\\Music.Market.Core.csproj|solutionrelative:music.market.core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.data\\configurations\\musicconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|solutionrelative:music.market.data\\configurations\\musicconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.data\\configurations\\artistconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFDE3F4A-7043-4A3C-88F1-9DE2599BEB3B}|Music.Market.Data\\Music.Market.Data.csproj|solutionrelative:music.market.data\\configurations\\artistconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AF6C94-A16D-4C61-BB66-E17D0D231672}|Music.Market.Services\\Music.Market.Services.csproj|c:\\users\\enisa\\desktop\\music.market\\music.market\\music.market.services\\music.market.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1AF6C94-A16D-4C61-BB66-E17D0D231672}|Music.Market.Services\\Music.Market.Services.csproj|solutionrelative:music.market.services\\music.market.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IArtistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Repositories\\IArtistRepository.cs",
+              "RelativeDocumentMoniker": "Music.Market.Core\\Repositories\\IArtistRepository.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Repositories\\IArtistRepository.cs",
+              "RelativeToolTip": "Music.Market.Core\\Repositories\\IArtistRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:06:45.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMusicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Repositories\\IMusicRepository.cs",
+              "RelativeDocumentMoniker": "Music.Market.Core\\Repositories\\IMusicRepository.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Repositories\\IMusicRepository.cs",
+              "RelativeToolTip": "Music.Market.Core\\Repositories\\IMusicRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:09:08.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IArtistService.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Services\\IArtistService.cs",
+              "RelativeDocumentMoniker": "Music.Market.Core\\Services\\IArtistService.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Services\\IArtistService.cs",
+              "RelativeToolTip": "Music.Market.Core\\Services\\IArtistService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:21:55.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Music.Market.Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\UnitOfWork.cs",
+              "RelativeToolTip": "Music.Market.Data\\UnitOfWork.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:29:51.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArtistController.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\Controllers\\ArtistController.cs",
+              "RelativeDocumentMoniker": "Music.Market.Api\\Controllers\\ArtistController.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\Controllers\\ArtistController.cs",
+              "RelativeToolTip": "Music.Market.Api\\Controllers\\ArtistController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAuwDAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:36:04.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicDTO.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\DTO\\MusicDTO.cs",
+              "RelativeDocumentMoniker": "Music.Market.Api\\DTO\\MusicDTO.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\DTO\\MusicDTO.cs",
+              "RelativeToolTip": "Music.Market.Api\\DTO\\MusicDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:47:15.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\Controllers\\MusicController.cs",
+              "RelativeDocumentMoniker": "Music.Market.Api\\Controllers\\MusicController.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\Controllers\\MusicController.cs",
+              "RelativeToolTip": "Music.Market.Api\\Controllers\\MusicController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:44:43.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Music.Market.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Music.Market.Core.csproj",
+              "RelativeDocumentMoniker": "Music.Market.Core\\Music.Market.Core.csproj",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Music.Market.Core.csproj",
+              "RelativeToolTip": "Music.Market.Core\\Music.Market.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T11:19:44.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SaveArtistDTO.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\DTO\\SaveArtistDTO.cs",
+              "RelativeDocumentMoniker": "Music.Market.Api\\DTO\\SaveArtistDTO.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\DTO\\SaveArtistDTO.cs",
+              "RelativeToolTip": "Music.Market.Api\\DTO\\SaveArtistDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:29:08.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Models\\Music.cs",
+              "RelativeDocumentMoniker": "Music.Market.Core\\Models\\Music.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Models\\Music.cs",
+              "RelativeToolTip": "Music.Market.Core\\Models\\Music.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:52:58.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "Music.Market.Core\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Models\\Artist.cs",
+              "RelativeToolTip": "Music.Market.Core\\Models\\Artist.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:54:42.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArtistService.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Services\\ArtistService.cs",
+              "RelativeDocumentMoniker": "Music.Market.Services\\ArtistService.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Services\\ArtistService.cs",
+              "RelativeToolTip": "Music.Market.Services\\ArtistService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:36:19.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MusicMarketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\MusicMarketDbContext.cs",
+              "RelativeDocumentMoniker": "Music.Market.Data\\MusicMarketDbContext.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\MusicMarketDbContext.cs",
+              "RelativeToolTip": "Music.Market.Data\\MusicMarketDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:51:56.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ArtistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\Repositories\\ArtistRepository.cs",
+              "RelativeDocumentMoniker": "Music.Market.Data\\Repositories\\ArtistRepository.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\Repositories\\ArtistRepository.cs",
+              "RelativeToolTip": "Music.Market.Data\\Repositories\\ArtistRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:14:27.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SaveArtistResourceValidator.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\Validators\\SaveArtistResourceValidator.cs",
+              "RelativeDocumentMoniker": "Music.Market.Api\\Validators\\SaveArtistResourceValidator.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\Validators\\SaveArtistResourceValidator.cs",
+              "RelativeToolTip": "Music.Market.Api\\Validators\\SaveArtistResourceValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:41:43.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SaveMusicDTO.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\DTO\\SaveMusicDTO.cs",
+              "RelativeDocumentMoniker": "Music.Market.Api\\DTO\\SaveMusicDTO.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\DTO\\SaveMusicDTO.cs",
+              "RelativeToolTip": "Music.Market.Api\\DTO\\SaveMusicDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:29:57.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaveMusicResourceValidator.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\Validators\\SaveMusicResourceValidator.cs",
+              "RelativeDocumentMoniker": "Music.Market.Api\\Validators\\SaveMusicResourceValidator.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\Validators\\SaveMusicResourceValidator.cs",
+              "RelativeToolTip": "Music.Market.Api\\Validators\\SaveMusicResourceValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:43:59.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ArtistDTO.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\DTO\\ArtistDTO.cs",
+              "RelativeDocumentMoniker": "Music.Market.Api\\DTO\\ArtistDTO.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\DTO\\ArtistDTO.cs",
+              "RelativeToolTip": "Music.Market.Api\\DTO\\ArtistDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:45:56.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Music.Market.Api\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Music.Market.Api\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T12:16:16.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MusicService.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Services\\MusicService.cs",
+              "RelativeDocumentMoniker": "Music.Market.Services\\MusicService.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Services\\MusicService.cs",
+              "RelativeToolTip": "Music.Market.Services\\MusicService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T11:36:29.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240905135444_InitMusicMarketDB.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\Migrations\\20240905135444_InitMusicMarketDB.cs",
+              "RelativeDocumentMoniker": "Music.Market.Data\\Migrations\\20240905135444_InitMusicMarketDB.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\Migrations\\20240905135444_InitMusicMarketDB.cs",
+              "RelativeToolTip": "Music.Market.Data\\Migrations\\20240905135444_InitMusicMarketDB.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:54:45.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Music.Market.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\Program.cs",
+              "RelativeToolTip": "Music.Market.Api\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:37:41.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MusicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\Repositories\\MusicRepository.cs",
+              "RelativeDocumentMoniker": "Music.Market.Data\\Repositories\\MusicRepository.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\Repositories\\MusicRepository.cs",
+              "RelativeToolTip": "Music.Market.Data\\Repositories\\MusicRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:22:03.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMusicService.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Services\\IMusicService.cs",
+              "RelativeDocumentMoniker": "Music.Market.Core\\Services\\IMusicService.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Services\\IMusicService.cs",
+              "RelativeToolTip": "Music.Market.Core\\Services\\IMusicService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:30:35.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Music.Market.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Api\\appsettings.json",
+              "RelativeToolTip": "Music.Market.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T13:39:01.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Music.Market.Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Music.Market.Data\\Repositories\\Repository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwDsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:57:17.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MusicConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\Configurations\\MusicConfiguration.cs",
+              "RelativeDocumentMoniker": "Music.Market.Data\\Configurations\\MusicConfiguration.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\Configurations\\MusicConfiguration.cs",
+              "RelativeToolTip": "Music.Market.Data\\Configurations\\MusicConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:42:33.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Music.Market.Core\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\IUnitOfWork.cs",
+              "RelativeToolTip": "Music.Market.Core\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:20:00.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ArtistConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\Configurations\\ArtistConfiguration.cs",
+              "RelativeDocumentMoniker": "Music.Market.Data\\Configurations\\ArtistConfiguration.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Data\\Configurations\\ArtistConfiguration.cs",
+              "RelativeToolTip": "Music.Market.Data\\Configurations\\ArtistConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:39:48.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Music.Market.Core\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Core\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Music.Market.Core\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T10:59:01.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Music.Market.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Services\\Music.Market.Services.csproj",
+              "RelativeDocumentMoniker": "Music.Market.Services\\Music.Market.Services.csproj",
+              "ToolTip": "C:\\Users\\enisa\\Desktop\\Music.Market\\Music.Market\\Music.Market.Services\\Music.Market.Services.csproj",
+              "RelativeToolTip": "Music.Market.Services\\Music.Market.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T10:49:56.494Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
